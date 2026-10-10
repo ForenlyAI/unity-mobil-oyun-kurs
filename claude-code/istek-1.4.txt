@@ -1,0 +1,3 @@
+Unity için C# yaz. Kafe namespace'i içinde static Hareket sınıfı olsun, içinde şu işlev olsun:
+public static Vector2 Yaklas(Vector2 konum, Vector2 hedef, float adim)
+Konumdan hedefe doğru adim kadar ilerlesin ve yeni konumu döndürsün. Hazır MoveTowards kullanma, kendin yaz. Yalnız dosyanın kodunu ver, açıklama yazma.

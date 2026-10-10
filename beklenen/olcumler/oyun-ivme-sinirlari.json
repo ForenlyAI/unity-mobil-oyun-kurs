@@ -1,0 +1,46 @@
+{
+  "0.5": {
+    "durum": "Teslim",
+    "sure_s": 10.56,
+    "kare": 632,
+    "sabit_adim": 528,
+    "carpma": 0,
+    "en_buyuk_ivme": 0.5,
+    "puan": 1389,
+    "son_x": 3.75,
+    "son_y": 3.02
+  },
+  "1.0": {
+    "durum": "Teslim",
+    "sure_s": 9.96,
+    "kare": 597,
+    "sabit_adim": 498,
+    "carpma": 0,
+    "en_buyuk_ivme": 1,
+    "puan": 1401,
+    "son_x": 3.76,
+    "son_y": 3.02
+  },
+  "2.0": {
+    "durum": "Teslim",
+    "sure_s": 9.66,
+    "kare": 579,
+    "sabit_adim": 483,
+    "carpma": 0,
+    "en_buyuk_ivme": 2,
+    "puan": 1407,
+    "son_x": 3.76,
+    "son_y": 3.02
+  },
+  "4.0": {
+    "durum": "Dokuldu",
+    "sure_s": 0.04,
+    "kare": 2,
+    "sabit_adim": 2,
+    "carpma": 0,
+    "en_buyuk_ivme": 4,
+    "puan": 0,
+    "son_x": 0.8,
+    "son_y": 1
+  }
+}

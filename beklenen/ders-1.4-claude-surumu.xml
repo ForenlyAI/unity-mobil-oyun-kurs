@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="6" result="Failed(Child)" total="6" passed="5" failed="1" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-10-10 20:45:23Z" end-time="2026-10-10 20:45:23Z" duration="0.0745074">
+  <test-suite type="TestSuite" id="1000" name="Kafe Robotu" fullname="Kafe Robotu" runstate="Runnable" testcasecount="31" result="Failed" site="Child" start-time="2026-10-10 20:45:23Z" end-time="2026-10-10 20:45:23Z" duration="0.074507" total="6" passed="5" failed="1" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="EditMode" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="Assembly" id="1043" name="Kafe.Tests.EditMode.dll" fullname="kafe-robot/Library/ScriptAssemblies/Kafe.Tests.EditMode.dll" runstate="Runnable" testcasecount="31" result="Failed" site="Child" start-time="2026-10-10 20:45:23Z" end-time="2026-10-10 20:45:23Z" duration="0.062596" total="6" passed="5" failed="1" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="819725" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+        <property name="EditorOnly" value="True" />
+      </properties>
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestSuite" id="1044" name="Kafe" fullname="Kafe" runstate="Runnable" testcasecount="31" result="Failed" site="Child" start-time="2026-10-10 20:45:23Z" end-time="2026-10-10 20:45:23Z" duration="0.061594" total="6" passed="5" failed="1" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-suite type="TestSuite" id="1045" name="Testler" fullname="Kafe.Testler" runstate="Runnable" testcasecount="31" result="Failed" site="Child" start-time="2026-10-10 20:45:23Z" end-time="2026-10-10 20:45:23Z" duration="0.060882" total="6" passed="5" failed="1" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-suite type="TestFixture" id="1001" name="YaklasTestleri" fullname="Kafe.Testler.YaklasTestleri" classname="Kafe.Testler.YaklasTestleri" runstate="Runnable" testcasecount="6" result="Failed" site="Child" start-time="2026-10-10 20:45:23Z" end-time="2026-10-10 20:45:23Z" duration="0.057538" total="6" passed="5" failed="1" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <failure>
+              <message><![CDATA[One or more child tests had errors]]></message>
+            </failure>
+            <test-case id="1003" name="Capraz_Yon" fullname="Kafe.Testler.YaklasTestleri.Capraz_Yon" methodname="Capraz_Yon" classname="Kafe.Testler.YaklasTestleri" runstate="Runnable" seed="884167045" result="Passed" start-time="2026-10-10 20:45:23Z" end-time="2026-10-10 20:45:23Z" duration="0.023578" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1006" name="Eksi_Adim_Geri_Gitmez" fullname="Kafe.Testler.YaklasTestleri.Eksi_Adim_Geri_Gitmez" methodname="Eksi_Adim_Geri_Gitmez" classname="Kafe.Testler.YaklasTestleri" runstate="Runnable" seed="1840228472" result="Failed" start-time="2026-10-10 20:45:23Z" end-time="2026-10-10 20:45:23Z" duration="0.005689" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <failure>
+                <message><![CDATA[  beklenen (0.00, 0.00), gelen (-0.50, 0.00)
+  Expected: less than 9.99999975E-05f
+  But was:  0.5f
+]]></message>
+                <stack-trace><![CDATA[at Kafe.Testler.YaklasTestleri.Yakin (UnityEngine.Vector2 beklenen, UnityEngine.Vector2 gelen) [0x0002a] in kafe-robot/Assets/Kafe/Tests/EditMode/KuralTestleri.cs:16
+at Kafe.Testler.YaklasTestleri.Eksi_Adim_Geri_Gitmez () [0x00000] in kafe-robot/Assets/Kafe/Tests/EditMode/KuralTestleri.cs:23
+]]></stack-trace>
+              </failure>
+            </test-case>
+            <test-case id="1007" name="Hedefteyken_Yerinde_Kalir" fullname="Kafe.Testler.YaklasTestleri.Hedefteyken_Yerinde_Kalir" methodname="Hedefteyken_Yerinde_Kalir" classname="Kafe.Testler.YaklasTestleri" runstate="Runnable" seed="246082777" result="Passed" start-time="2026-10-10 20:45:23Z" end-time="2026-10-10 20:45:23Z" duration="0.000277" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1004" name="Sifir_Adim_Yerinde_Kalir" fullname="Kafe.Testler.YaklasTestleri.Sifir_Adim_Yerinde_Kalir" methodname="Sifir_Adim_Yerinde_Kalir" classname="Kafe.Testler.YaklasTestleri" runstate="Runnable" seed="974478480" result="Passed" start-time="2026-10-10 20:45:23Z" end-time="2026-10-10 20:45:23Z" duration="0.000235" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1002" name="Uzak_Hedefe_Bir_Adim" fullname="Kafe.Testler.YaklasTestleri.Uzak_Hedefe_Bir_Adim" methodname="Uzak_Hedefe_Bir_Adim" classname="Kafe.Testler.YaklasTestleri" runstate="Runnable" seed="992584903" result="Passed" start-time="2026-10-10 20:45:23Z" end-time="2026-10-10 20:45:23Z" duration="0.000223" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1005" name="Yakin_Hedefi_Gecmez" fullname="Kafe.Testler.YaklasTestleri.Yakin_Hedefi_Gecmez" methodname="Yakin_Hedefi_Gecmez" classname="Kafe.Testler.YaklasTestleri" runstate="Runnable" seed="131702261" result="Passed" start-time="2026-10-10 20:45:23Z" end-time="2026-10-10 20:45:23Z" duration="0.000225" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Saving results to: ~/.config/unity3d/Forenly Academy/Kafe Robotu/TestResults.xml
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

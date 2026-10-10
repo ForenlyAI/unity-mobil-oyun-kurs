@@ -1,0 +1,20 @@
+{
+ "web_sure_dk": 46.4,
+ "web_sure_s": 2781,
+ "web_boyut_mb": 58.9,
+ "web_boyut_bayt": 58866792,
+ "web_dosya": 18,
+ "web_wasm_mb": 45.9,
+ "web_veri_mb": 12.5,
+ "web_tarayici_hata": 0,
+ "web_tarayici_sonuc": "[Kafe] sonuç: Teslim · süre 9.96 s · 72 kare · 498 sabit adım · çarpma 0 · en büyük ivme 1.00 m/s² · puan 1401",
+ "web_tarayici_sure_s": 9.96,
+ "web_tarayici_puan": 1401,
+ "web_tarayici_adim": 498,
+ "web_tarayici_kare": 72,
+ "web_canvas_px": [
+  540,
+  960
+ ],
+ "web_not": "derleme süresi yüklü bir makinede, 1–2 çekirdek sınırıyla; tarayıcı başsız Chrome, yazılımsal çizim (kare sayısı düşük), yerel durağan sunucu"
+}

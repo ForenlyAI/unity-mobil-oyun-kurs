@@ -1,0 +1,15 @@
+{
+  "alan": 6,
+  "sahneler": ["Assets/Kafe/Sahneler/Kafe.unity"],
+  "gelistirme_surumu": false,
+  "dikey": true,
+  "hedef_kare": 60,
+  "sikistirma": "Kapalı",
+  "urun_adi": "Kafe Robotu",
+  "sorun": 0,
+  "bozuk_sorun": 2,
+  "bozuk_sorunlar": ["geliştirme sürümü açık", "ekran yönü dikey değil"],
+  "unity": "6000.3.26f1",
+  "web_en": 540,
+  "web_boy": 960
+}

@@ -1,0 +1,37 @@
+{
+  "a": {
+    "durum": "Teslim",
+    "sure_s": 9.96,
+    "kare": 596,
+    "sabit_adim": 498,
+    "carpma": 0,
+    "en_buyuk_ivme": 1,
+    "puan": 1401,
+    "son_x": 3.76,
+    "son_y": 3.02
+  },
+  "b": {
+    "durum": "Teslim",
+    "sure_s": 9.96,
+    "kare": 596,
+    "sabit_adim": 498,
+    "carpma": 0,
+    "en_buyuk_ivme": 1,
+    "puan": 1401,
+    "son_x": 3.76,
+    "son_y": 3.02
+  },
+  "fps30": {
+    "durum": "Teslim",
+    "sure_s": 9.96,
+    "kare": 298,
+    "sabit_adim": 498,
+    "carpma": 0,
+    "en_buyuk_ivme": 1,
+    "puan": 1401,
+    "son_x": 3.76,
+    "son_y": 3.02
+  },
+  "ayni": true,
+  "fps30_ayni": true
+}

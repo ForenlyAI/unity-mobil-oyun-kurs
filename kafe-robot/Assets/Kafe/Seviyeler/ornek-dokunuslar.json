@@ -1,0 +1,9 @@
+{
+  "not": "ÖRNEK oyuncu girdisi: masa-1'in çevresinden dolaşan dokunuşlar. Piksel, 1080 x 1920 referans ekranında, sol alt köşeden.",
+  "dokunuslar": [
+    {"t": 0.0, "faz": "Began", "px": 312.0, "py": 720.0},
+    {"t": 4.0, "faz": "Moved", "px": 624.0, "py": 816.0},
+    {"t": 7.5, "faz": "Moved", "px": 900.0, "py": 724.8},
+    {"t": 7.6, "faz": "Ended", "px": 900.0, "py": 724.8}
+  ]
+}

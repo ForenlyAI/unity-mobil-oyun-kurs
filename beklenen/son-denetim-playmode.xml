@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="15" result="Passed" total="15" passed="9" failed="0" inconclusive="0" skipped="6" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-10-10 22:10:37Z" end-time="2026-10-10 22:10:58Z" duration="20.4631868">
+  <test-suite type="TestSuite" id="1025" name="Kafe Robotu" fullname="Kafe Robotu" runstate="Runnable" testcasecount="15" result="Passed" start-time="2026-10-10 22:10:37Z" end-time="2026-10-10 22:10:58Z" duration="20.463187" total="15" passed="9" failed="0" inconclusive="0" skipped="6" asserts="0">
+    <properties>
+      <property name="platform" value="PlayMode" />
+    </properties>
+    <test-suite type="Assembly" id="1019" name="Kafe.Tests.PlayMode.dll" fullname="kafe-robot/Library/ScriptAssemblies/Kafe.Tests.PlayMode.dll" runstate="Runnable" testcasecount="15" result="Passed" start-time="2026-10-10 22:10:37Z" end-time="2026-10-10 22:10:58Z" duration="20.436938" total="15" passed="9" failed="0" inconclusive="0" skipped="6" asserts="0">
+      <properties>
+        <property name="_PID" value="1103018" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+        <property name="EditorOnly" value="False" />
+      </properties>
+      <test-suite type="TestSuite" id="1020" name="Kafe" fullname="Kafe" runstate="Runnable" testcasecount="15" result="Passed" start-time="2026-10-10 22:10:37Z" end-time="2026-10-10 22:10:58Z" duration="20.435963" total="15" passed="9" failed="0" inconclusive="0" skipped="6" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1021" name="Testler" fullname="Kafe.Testler" runstate="Runnable" testcasecount="15" result="Passed" start-time="2026-10-10 22:10:37Z" end-time="2026-10-10 22:10:58Z" duration="20.435448" total="15" passed="9" failed="0" inconclusive="0" skipped="6" asserts="0">
+          <properties />
+          <test-suite type="TestFixture" id="1001" name="GorselKayit" fullname="Kafe.Testler.GorselKayit" classname="Kafe.Testler.GorselKayit" runstate="Explicit" testcasecount="6" result="Skipped" label="Explicit" site="SetUp" start-time="2026-10-10 22:10:37Z" end-time="2026-10-10 22:10:37Z" duration="0.025391" total="6" passed="0" failed="0" inconclusive="0" skipped="6" asserts="0">
+            <properties>
+              <property name="Category" value="Gorsel" />
+            </properties>
+            <test-case id="1005" name="Durgun_Kareler" fullname="Kafe.Testler.GorselKayit.Durgun_Kareler" methodname="Durgun_Kareler" classname="Kafe.Testler.GorselKayit" runstate="Runnable" seed="1531793726" result="Skipped" label="Explicit" site="Parent" start-time="0001-01-01 00:00:00Z" end-time="0001-01-01 00:00:00Z" duration="0.000000" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="1800000" />
+              </properties>
+            </test-case>
+            <test-case id="1007" name="Durgun_Yuz_Robot" fullname="Kafe.Testler.GorselKayit.Durgun_Yuz_Robot" methodname="Durgun_Yuz_Robot" classname="Kafe.Testler.GorselKayit" runstate="Runnable" seed="817966222" result="Skipped" label="Explicit" site="Parent" start-time="0001-01-01 00:00:00Z" end-time="0001-01-01 00:00:00Z" duration="0.000000" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="1800000" />
+              </properties>
+            </test-case>
+            <test-case id="1003" name="Klip_Dogrudan_Carpma" fullname="Kafe.Testler.GorselKayit.Klip_Dogrudan_Carpma" methodname="Klip_Dogrudan_Carpma" classname="Kafe.Testler.GorselKayit" runstate="Runnable" seed="1527946676" result="Skipped" label="Explicit" site="Parent" start-time="0001-01-01 00:00:00Z" end-time="0001-01-01 00:00:00Z" duration="0.000000" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="1800000" />
+              </properties>
+            </test-case>
+            <test-case id="1002" name="Klip_Ornek_Oyun" fullname="Kafe.Testler.GorselKayit.Klip_Ornek_Oyun" methodname="Klip_Ornek_Oyun" classname="Kafe.Testler.GorselKayit" runstate="Runnable" seed="1667890740" result="Skipped" label="Explicit" site="Parent" start-time="0001-01-01 00:00:00Z" end-time="0001-01-01 00:00:00Z" duration="0.000000" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="1800000" />
+              </properties>
+            </test-case>
+            <test-case id="1004" name="Klip_Sinirsiz_Ivme" fullname="Kafe.Testler.GorselKayit.Klip_Sinirsiz_Ivme" methodname="Klip_Sinirsiz_Ivme" classname="Kafe.Testler.GorselKayit" runstate="Runnable" seed="1323514410" result="Skipped" label="Explicit" site="Parent" start-time="0001-01-01 00:00:00Z" end-time="0001-01-01 00:00:00Z" duration="0.000000" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="1800000" />
+              </properties>
+            </test-case>
+            <test-case id="1006" name="Klip_Tunel_Etkisi" fullname="Kafe.Testler.GorselKayit.Klip_Tunel_Etkisi" methodname="Klip_Tunel_Etkisi" classname="Kafe.Testler.GorselKayit" runstate="Runnable" seed="768373518" result="Skipped" label="Explicit" site="Parent" start-time="0001-01-01 00:00:00Z" end-time="0001-01-01 00:00:00Z" duration="0.000000" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="1800000" />
+              </properties>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="1008" name="KareTestleri" fullname="Kafe.Testler.KareTestleri" classname="Kafe.Testler.KareTestleri" runstate="Runnable" testcasecount="2" result="Passed" start-time="2026-10-10 22:10:37Z" end-time="2026-10-10 22:10:38Z" duration="0.338538" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1009" name="DeltaTime_Ile_Yol_Kare_Hizindan_Bagimsiz" fullname="Kafe.Testler.KareTestleri.DeltaTime_Ile_Yol_Kare_Hizindan_Bagimsiz" methodname="DeltaTime_Ile_Yol_Kare_Hizindan_Bagimsiz" classname="Kafe.Testler.KareTestleri" runstate="Runnable" seed="641413174" result="Passed" start-time="2026-10-10 22:10:37Z" end-time="2026-10-10 22:10:37Z" duration="0.169887" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[[Olcum] kare: {   "fps30_kare": 60,   "fps30_dt_ms": 33.33,   "fps30_dogru_m": 1,   "fps30_yanlis_m": 0.6,   "fps60_kare": 120,   "fps60_dt_ms": 16.67,   "fps60_dogru_m": 1,   "fps60_yanlis_m": 1.2 }
+]]></output>
+            </test-case>
+            <test-case id="1010" name="FixedUpdate_Sayisi_Kare_Hizindan_Bagimsiz" fullname="Kafe.Testler.KareTestleri.FixedUpdate_Sayisi_Kare_Hizindan_Bagimsiz" methodname="FixedUpdate_Sayisi_Kare_Hizindan_Bagimsiz" classname="Kafe.Testler.KareTestleri" runstate="Runnable" seed="1358619223" result="Passed" start-time="2026-10-10 22:10:37Z" end-time="2026-10-10 22:10:38Z" duration="0.150775" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[[Olcum] sabit-adim: {   "sabit_adim_s": 0.02,   "fps30_update": 60,   "fps30_fixed": 100,   "fps60_update": 120,   "fps60_fixed": 100,   "fps120_update": 240,   "fps120_fixed": 100 }
+]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="1011" name="OyunTestleri" fullname="Kafe.Testler.OyunTestleri" classname="Kafe.Testler.OyunTestleri" runstate="Runnable" testcasecount="7" result="Passed" start-time="2026-10-10 22:10:38Z" end-time="2026-10-10 22:10:58Z" duration="20.066837" total="7" passed="7" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1017" name="Ayni_Girdi_Ayni_Sonuc" fullname="Kafe.Testler.OyunTestleri.Ayni_Girdi_Ayni_Sonuc" methodname="Ayni_Girdi_Ayni_Sonuc" classname="Kafe.Testler.OyunTestleri" runstate="Runnable" seed="1073067320" result="Passed" start-time="2026-10-10 22:10:38Z" end-time="2026-10-10 22:10:44Z" duration="6.938446" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[[Kafe] sonuç: Teslim · süre 9.96 s · 596 kare · 498 sabit adım · çarpma 0 · en büyük ivme 1.00 m/s² · puan 1401
+[Kafe] sonuç: Teslim · süre 9.96 s · 596 kare · 498 sabit adım · çarpma 0 · en büyük ivme 1.00 m/s² · puan 1401
+[Kafe] sonuç: Teslim · süre 9.96 s · 298 kare · 498 sabit adım · çarpma 0 · en büyük ivme 1.00 m/s² · puan 1401
+[Olcum] oyun-tekrar: {   "a": {     "durum": "Teslim",     "sure_s": 9.96,     "kare": 596,     "sabit_adim": 498,     "carpma": 0,     "en_buyuk_ivme": 1,     "puan": 1401,     "son_x": 3.76,     "son_y": 3.02   },   "b": {     "durum": "Teslim",     "sure_s": 9.96,     "kare": 596,     "sabit_adim": 498,     "carpma": 0,     "en_buyuk_ivme": 1,     "puan": 1401,     "son_x": 3.76,     "son_y": 3.02   },   "fps30": {     "durum": "Teslim",     "sure_s": 9.96,     "kare": 298,     "sabit_adim": 498,     "carpma": 0,     "en_buyuk_ivme": 1,     "puan": 1401,     "son_x": 3.76,     "son_y": 3.02   },   "ayni": true,   "fps30_ayni": true }
+]]></output>
+            </test-case>
+            <test-case id="1014" name="Dogrudan_Yol_Masaya_Carpar" fullname="Kafe.Testler.OyunTestleri.Dogrudan_Yol_Masaya_Carpar" methodname="Dogrudan_Yol_Masaya_Carpar" classname="Kafe.Testler.OyunTestleri" runstate="Runnable" seed="1610399943" result="Passed" start-time="2026-10-10 22:10:44Z" end-time="2026-10-10 22:10:45Z" duration="0.888948" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[[Kafe] sonuç: Dokuldu · süre 1.90 s · 113 kare · 95 sabit adım · çarpma 1 · en büyük ivme 4.27 m/s² · puan 0
+[Olcum] oyun-dogrudan: {   "durum": "Dokuldu",   "sure_s": 1.9,   "kare": 113,   "sabit_adim": 95,   "carpma": 1,   "en_buyuk_ivme": 4.27,   "puan": 0,   "son_x": 1.65,   "son_y": 1.58 }
+]]></output>
+            </test-case>
+            <test-case id="1012" name="Dokunus_Robotu_Hedefe_Goturur" fullname="Kafe.Testler.OyunTestleri.Dokunus_Robotu_Hedefe_Goturur" methodname="Dokunus_Robotu_Hedefe_Goturur" classname="Kafe.Testler.OyunTestleri" runstate="Runnable" seed="325608617" result="Passed" start-time="2026-10-10 22:10:45Z" end-time="2026-10-10 22:10:47Z" duration="1.667233" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[[Olcum] dokunma-oyun: {   "piksel": [480, 900],   "hedef_x": 2,   "hedef_y": 3.75,   "sure_s": 12.02,   "kalan_m": 0,   "carpma": 0 }
+]]></output>
+            </test-case>
+            <test-case id="1016" name="Ivme_Siniri_Sureyi_Ve_Riski_Degistirir" fullname="Kafe.Testler.OyunTestleri.Ivme_Siniri_Sureyi_Ve_Riski_Degistirir" methodname="Ivme_Siniri_Sureyi_Ve_Riski_Degistirir" classname="Kafe.Testler.OyunTestleri" runstate="Runnable" seed="994576580" result="Passed" start-time="2026-10-10 22:10:47Z" end-time="2026-10-10 22:10:52Z" duration="4.715105" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[[Kafe] sonuç: Teslim · süre 10.56 s · 633 kare · 528 sabit adım · çarpma 0 · en büyük ivme 0.50 m/s² · puan 1389
+[Kafe] sonuç: Teslim · süre 9.96 s · 597 kare · 498 sabit adım · çarpma 0 · en büyük ivme 1.00 m/s² · puan 1401
+[Kafe] sonuç: Teslim · süre 9.66 s · 579 kare · 483 sabit adım · çarpma 0 · en büyük ivme 2.00 m/s² · puan 1407
+[Kafe] sonuç: Dokuldu · süre 0.04 s · 1 kare · 2 sabit adım · çarpma 0 · en büyük ivme 4.00 m/s² · puan 0
+[Olcum] oyun-ivme-sinirlari: {   "0.5": {     "durum": "Teslim",     "sure_s": 10.56,     "kare": 633,     "sabit_adim": 528,     "carpma": 0,     "en_buyuk_ivme": 0.5,     "puan": 1389,     "son_x": 3.75,     "son_y": 3.02   },   "1.0": {     "durum": "Teslim",     "sure_s": 9.96,     "kare": 597,     "sabit_adim": 498,     "carpma": 0,     "en_buyuk_ivme": 1,     "puan": 1401,     "son_x": 3.76,     "son_y": 3.02   },   "2.0": {     "durum": "Teslim",     "sure_s": 9.66,     "kare": 579,     "sabit_adim": 483,     "carpma": 0,     "en_buyuk_ivme": 2,     "puan": 1407,     "son_x": 3.76,     "son_y": 3.02   },   "4.0": {     "durum": "Dokuldu",     "sure_s": 0.04,     "kare": 1,     "sabit_adim": 2,     "carpma": 0,     "en_buyuk_ivme": 4,     "puan": 0,     "son_x": 0.8,     "son_y": 1   } }
+]]></output>
+            </test-case>
+            <test-case id="1018" name="Kare_Suresi_Butceye_Sigar" fullname="Kafe.Testler.OyunTestleri.Kare_Suresi_Butceye_Sigar" methodname="Kare_Suresi_Butceye_Sigar" classname="Kafe.Testler.OyunTestleri" runstate="Runnable" seed="29615476" result="Passed" start-time="2026-10-10 22:10:52Z" end-time="2026-10-10 22:10:56Z" duration="4.027775" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <reason>
+                <message><![CDATA[]]></message>
+              </reason>
+              <output><![CDATA[[Olcum] kare-butcesi: {   "butce60_ms": 16.67,   "butce30_ms": 33.33,   "olcum": [{       "robot": 1,       "ms": 1.394     }, {       "robot": 10,       "ms": 1.18     }, {       "robot": 100,       "ms": 1.305     }],   "not": "editörde Play modu, bu makinede; süre makineye göre değişir" }
+]]></output>
+            </test-case>
+            <test-case id="1013" name="Ornek_Oyun_Teslim_Eder" fullname="Kafe.Testler.OyunTestleri.Ornek_Oyun_Teslim_Eder" methodname="Ornek_Oyun_Teslim_Eder" classname="Kafe.Testler.OyunTestleri" runstate="Runnable" seed="1518286967" result="Passed" start-time="2026-10-10 22:10:56Z" end-time="2026-10-10 22:10:57Z" duration="1.220106" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[[Kafe] sonuç: Teslim · süre 9.96 s · 596 kare · 498 sabit adım · çarpma 0 · en büyük ivme 1.00 m/s² · puan 1401
+[Olcum] oyun-ornek: {   "durum": "Teslim",   "sure_s": 9.96,   "kare": 596,   "sabit_adim": 498,   "carpma": 0,   "en_buyuk_ivme": 1,   "puan": 1401,   "son_x": 3.76,   "son_y": 3.02 }
+]]></output>
+            </test-case>
+            <test-case id="1015" name="Sinirsiz_Ivme_Bardagi_Doker" fullname="Kafe.Testler.OyunTestleri.Sinirsiz_Ivme_Bardagi_Doker" methodname="Sinirsiz_Ivme_Bardagi_Doker" classname="Kafe.Testler.OyunTestleri" runstate="Runnable" seed="1975150399" result="Passed" start-time="2026-10-10 22:10:57Z" end-time="2026-10-10 22:10:58Z" duration="0.606322" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[[Kafe] sonuç: Dokuldu · süre 0.04 s · 1 kare · 2 sabit adım · çarpma 0 · en büyük ivme 33.00 m/s² · puan 0
+[Olcum] oyun-sinirsiz: {   "durum": "Dokuldu",   "sure_s": 0.04,   "kare": 1,   "sabit_adim": 2,   "carpma": 0,   "en_buyuk_ivme": 33,   "puan": 0,   "son_x": 0.81,   "son_y": 1.03 }
+Saving results to: ~/.config/unity3d/Forenly Academy/Kafe Robotu/TestResults.xml
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

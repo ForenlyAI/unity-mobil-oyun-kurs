@@ -1,0 +1,9 @@
+{
+  "durum_sayisi": 4,
+  "gecis_sayisi": 6,
+  "istek": 8,
+  "kabul": 5,
+  "red": 3,
+  "adimlar": ["Menu > Teslim: RED", "Menu > Oyun: kabul", "Oyun > Oyun: RED", "Oyun > Dokuldu: kabul", "Dokuldu > Teslim: RED", "Dokuldu > Menu: kabul", "Menu > Oyun: kabul", "Oyun > Teslim: kabul"],
+  "son": "Teslim"
+}

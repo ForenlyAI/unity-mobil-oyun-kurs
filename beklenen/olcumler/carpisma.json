@@ -1,0 +1,15 @@
+{
+  "duvar_m": 0.02,
+  "yaricap_m": 0.05,
+  "dt_s": 0.02,
+  "hiz1_ayrik_gecti": false,
+  "hiz1_ayrik_son_x": -0.06,
+  "hiz1_adim_m": 0.02,
+  "hiz1_surekli_gecti": false,
+  "hiz1_surekli_son_x": -0.06,
+  "hiz10_ayrik_gecti": true,
+  "hiz10_ayrik_son_x": 18.9,
+  "hiz10_adim_m": 0.2,
+  "hiz10_surekli_gecti": false,
+  "hiz10_surekli_son_x": -0.06
+}

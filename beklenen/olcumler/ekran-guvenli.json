@@ -1,0 +1,23 @@
+{
+  "dugme": 2,
+  "centik_px": 120,
+  "alt_cubuk_px": 60,
+  "tam_ekranda_disarida": 2,
+  "guvenli_panelde_disarida": 0,
+  "dugmeler": [{
+      "ad": "Dugme-KaydiOynat",
+      "genislik": 360,
+      "yukseklik": 144,
+      "alt_kenar_px": 40,
+      "tam_ekranda_icinde": false,
+      "guvenli_panelde_icinde": true
+    }, {
+      "ad": "Dugme-Oyna",
+      "genislik": 300,
+      "yukseklik": 144,
+      "alt_kenar_px": 40,
+      "tam_ekranda_icinde": false,
+      "guvenli_panelde_icinde": true
+    }],
+  "guvenli_alan_bileseni": true
+}

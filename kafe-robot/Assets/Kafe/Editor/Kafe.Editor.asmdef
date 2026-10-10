@@ -1,0 +1,8 @@
+{
+    "name": "Kafe.Editor",
+    "rootNamespace": "Kafe.EditorAraclari",
+    "references": ["Kafe", "Unity.InputSystem", "UnityEngine.UI"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "autoReferenced": true
+}

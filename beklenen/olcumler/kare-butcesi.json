@@ -1,0 +1,15 @@
+{
+  "butce60_ms": 16.67,
+  "butce30_ms": 33.33,
+  "olcum": [{
+      "robot": 1,
+      "ms": 1.207
+    }, {
+      "robot": 10,
+      "ms": 0.95
+    }, {
+      "robot": 100,
+      "ms": 1.483
+    }],
+  "not": "editörde Play modu, bu makinede; süre makineye göre değişir"
+}

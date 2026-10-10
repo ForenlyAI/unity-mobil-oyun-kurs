@@ -1,0 +1,9 @@
+{
+  "sabit_adim_s": 0.02,
+  "fps30_update": 60,
+  "fps30_fixed": 100,
+  "fps60_update": 120,
+  "fps60_fixed": 100,
+  "fps120_update": 240,
+  "fps120_fixed": 100
+}

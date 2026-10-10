@@ -1,0 +1,11 @@
+MissingReferenceException: The object of type 'Kafe.MasaSablonu' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+  at UnityEngine.Object+MarshalledUnityObject.TryThrowEditorNullExceptionObject (UnityEngine.Object unityObj, System.String parameterName) [0x00064] in /home/bokken/build/output/unity/unity/Runtime/Export/Scripting/UnityEngineObject.bindings.cs:1071 
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00010] in /home/bokken/build/output/unity/unity/Runtime/Export/Scripting/BindingsHelpers.cs:61 
+  at UnityEngine.Component.get_gameObject () [0x00006] in <08b76a262c874da0853d4cdc5b748adc>:0 
+  at Kafe.EditorAraclari.SahneKurucu.Kur () [0x004fe] in kafe-robot/Assets/Kafe/Editor/SahneKurucu.cs:135 
+
+(Filename: Assets/Kafe/Editor/SahneKurucu.cs Line: 135)
+
+...
+executeMethod method Kafe.EditorAraclari.SahneKurucu.Kur threw exception.

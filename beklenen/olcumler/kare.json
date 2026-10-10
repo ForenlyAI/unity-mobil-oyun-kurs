@@ -1,0 +1,10 @@
+{
+  "fps30_kare": 60,
+  "fps30_dt_ms": 33.33,
+  "fps30_dogru_m": 1,
+  "fps30_yanlis_m": 0.6,
+  "fps60_kare": 120,
+  "fps60_dt_ms": 16.67,
+  "fps60_dogru_m": 1,
+  "fps60_yanlis_m": 1.2
+}

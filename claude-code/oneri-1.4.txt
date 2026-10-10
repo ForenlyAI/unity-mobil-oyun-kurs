@@ -1,0 +1,22 @@
+```csharp
+using UnityEngine;
+
+namespace Kafe
+{
+    public static class Hareket
+    {
+        public static Vector2 Yaklas(Vector2 konum, Vector2 hedef, float adim)
+        {
+            Vector2 fark = hedef - konum;
+            float mesafe = fark.magnitude;
+
+            if (mesafe <= adim || mesafe <= Mathf.Epsilon)
+            {
+                return hedef;
+            }
+
+            return konum + fark / mesafe * adim;
+        }
+    }
+}
+```

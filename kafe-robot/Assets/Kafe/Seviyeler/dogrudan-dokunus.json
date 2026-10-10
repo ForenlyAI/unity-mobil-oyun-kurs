@@ -1,0 +1,6 @@
+{
+  "not": "ÖRNEK: tezgâhtan doğrudan teslim yerine tek dokunuş (yolda masa-1 var).",
+  "dokunuslar": [
+    {"t": 0.0, "faz": "Began", "px": 900.0, "py": 724.8}
+  ]
+}

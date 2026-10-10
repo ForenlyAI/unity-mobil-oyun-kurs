@@ -1,0 +1,13 @@
+{
+  "ad": "seviye-1",
+  "baslangic": {"x": 0.8, "y": 1.0},
+  "teslim": {"x": 3.75, "y": 3.02},
+  "masaGenislik": 0.8,
+  "masaDerinlik": 0.8,
+  "masalar": [
+    {"ad": "masa-1", "x": 2.3, "y": 2.0},
+    {"ad": "masa-2", "x": 1.2, "y": 4.6},
+    {"ad": "masa-3", "x": 3.4, "y": 5.6},
+    {"ad": "masa-4", "x": 1.0, "y": 6.8}
+  ]
+}

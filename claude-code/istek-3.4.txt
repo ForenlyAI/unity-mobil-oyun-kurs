@@ -1,0 +1,3 @@
+Unity için C# yaz. Kafe namespace'i içinde static SeviyeOneri sınıfı olsun, içinde şu işlev olsun:
+public static bool DaireKutuDegiyor(Vector2 merkez, float yaricap, Vector2 kutuMerkezi, Vector2 kutuYariBoyu)
+Yukarıdan bakılan kafede robot bir daire, masa eksenlere hizalı bir kutu. Daire kutuya değiyorsa true dönsün. Hazır fizik çağrısı kullanma. Kısa olsun. Yalnız dosyanın kodunu ver, açıklama yazma.

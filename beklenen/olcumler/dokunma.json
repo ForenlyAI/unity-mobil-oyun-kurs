@@ -1,0 +1,12 @@
+{
+  "ekran_px": [1080, 1920],
+  "dunya_m": [4.5, 8],
+  "kamera_boyu": 4,
+  "kamera_yukseklik": 10,
+  "orta_x": 2.25,
+  "orta_y": 4,
+  "nokta_px": [480, 900],
+  "nokta_x": 2,
+  "nokta_y": 3.75,
+  "metre_basina_px": 240
+}

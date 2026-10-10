@@ -1,0 +1,17 @@
+```csharp
+using UnityEngine;
+
+namespace Kafe
+{
+    public static class SeviyeOneri
+    {
+        public static bool DaireKutuDegiyor(Vector2 merkez, float yaricap, Vector2 kutuMerkezi, Vector2 kutuYariBoyu)
+        {
+            Vector2 fark = merkez - kutuMerkezi;
+            float dx = Mathf.Max(Mathf.Abs(fark.x) - kutuYariBoyu.x, 0f);
+            float dy = Mathf.Max(Mathf.Abs(fark.y) - kutuYariBoyu.y, 0f);
+            return dx * dx + dy * dy <= yaricap * yaricap;
+        }
+    }
+}
+```

@@ -1,0 +1,265 @@
+{
+ "unity_surum": "6000.3.26f1",
+ "unity_ad": "Unity 6.3 LTS",
+ "kosum_tarihi": "2026-10-10",
+ "d1_1_kok_nesne": 10,
+ "d1_1_toplam_nesne": 47,
+ "d1_1_masa": 4,
+ "d1_1_robot_bilesen": 5,
+ "d1_1_robot_bilesenler": [
+  "Transform",
+  "Rigidbody",
+  "CapsuleCollider",
+  "RobotSurucu",
+  "Bardak"
+ ],
+ "d1_1_robot_parca": 12,
+ "d1_1_yalniz_konum": 4,
+ "d1_1_yalniz_konum_adlar": [
+  "Kafe",
+  "Masalar",
+  "Gorsel",
+  "Tepsi"
+ ],
+ "d1_1_kokler": [
+  "Main Camera",
+  "Directional Light",
+  "Kafe",
+  "Masalar",
+  "TeslimNoktasi",
+  "HedefIsareti",
+  "Robot",
+  "Arayuz",
+  "EventSystem",
+  "OyunYoneticisi"
+ ],
+ "d1_2_30_kare": 60,
+ "d1_2_60_kare": 120,
+ "d1_2_dogru30_m": 1,
+ "d1_2_dogru60_m": 1,
+ "d1_2_yanlis30_m": 0.6,
+ "d1_2_yanlis60_m": 1.2,
+ "d1_2_dt30_ms": 33.33,
+ "d1_2_dt60_ms": 16.67,
+ "d1_3_ekran_px": [
+  1080,
+  1920
+ ],
+ "d1_3_dunya_m": [
+  4.5,
+  8
+ ],
+ "d1_3_metre_basina_px": 240,
+ "d1_3_orta": [
+  2.25,
+  4
+ ],
+ "d1_3_dokunus_px": [
+  480,
+  900
+ ],
+ "d1_3_hedef": [
+  2,
+  3.75
+ ],
+ "d1_3_sure_s": 12.02,
+ "d1_3_kalan_m": 0,
+ "d1_3_carpma": 0,
+ "d1_3_evre": 6,
+ "d1_3_evre_adlar": [
+  "None",
+  "Began",
+  "Moved",
+  "Ended",
+  "Canceled",
+  "Stationary"
+ ],
+ "d1_4_test": 6,
+ "d1_4_claude_gecen": 5,
+ "d1_4_claude_kalan": [
+  "Eksi_Adim_Geri_Gitmez"
+ ],
+ "d1_4_duzeltilmis_gecen": 6,
+ "d1_4_geri_gitti_m": 0.5,
+ "d2_1_tam_m": 2,
+ "d2_1_unity_m": 2.02,
+ "d2_1_acik_m": 1.98,
+ "d2_1_yari_kapali_m": 2.02,
+ "d2_1_adim": 100,
+ "d2_1_sabit_adim_s": 0.02,
+ "d2_1_update": [
+  60,
+  120,
+  240
+ ],
+ "d2_1_fixed": [
+  100,
+  100,
+  100
+ ],
+ "d2_2_duvar_m": 0.02,
+ "d2_2_yaricap_m": 0.05,
+ "d2_2_adim1_m": 0.02,
+ "d2_2_adim10_m": 0.2,
+ "d2_2_ayrik1_gecti": false,
+ "d2_2_ayrik10_gecti": true,
+ "d2_2_surekli10_gecti": false,
+ "d2_2_dogrudan_carpma": 1,
+ "d2_2_dogrudan_durum": "Dokuldu",
+ "d2_2_dogrudan_sure": 1.9,
+ "d2_2_dogrudan_ivme": 4.27,
+ "d2_2_dogrudan_puan": 0,
+ "d2_3_ornek": 5666,
+ "d2_3_sure_s": 113.3,
+ "d2_3_yol_m": 8.22,
+ "d2_3_vmax": 0.41,
+ "d2_3_amax": 0.6,
+ "d2_3_esik": 2.5,
+ "d2_3_esik_ustu": 0,
+ "d2_3_hareket": [
+  33.2,
+  95.5
+ ],
+ "d2_3_sinirsiz_ivme": 33,
+ "d2_3_sinirsiz_durum": "Dokuldu",
+ "d2_3_sinirsiz_puan": 0,
+ "d2_3_sinirli_durum": "Teslim",
+ "d2_3_sinirli_puan": 1401,
+ "d2_4_azami_hiz": 0.66,
+ "d2_4_sure": {
+  "0.5": 10.56,
+  "1.0": 9.96,
+  "2.0": 9.66,
+  "4.0": 0.04
+ },
+ "d2_4_puan": {
+  "0.5": 1389,
+  "1.0": 1401,
+  "2.0": 1407,
+  "4.0": 0
+ },
+ "d2_4_durum": {
+  "0.5": "Teslim",
+  "1.0": "Teslim",
+  "2.0": "Teslim",
+  "4.0": "Dokuldu"
+ },
+ "d2_4_ivme": {
+  "0.5": 0.5,
+  "1.0": 1,
+  "2.0": 2,
+  "4.0": 4
+ },
+ "d3_1_puanlar": {
+  "hizli_temiz": 1360,
+  "yavas_temiz": 1040,
+  "hizli_iki_carpma": 1160,
+  "dokulmus": 0
+ },
+ "d3_1_kural": {
+  "teslim": 1000,
+  "sure_siniri_s": 30,
+  "saniye_odulu": 20,
+  "carpma_cezasi": 100
+ },
+ "d3_1_oyun_sure": 9.96,
+ "d3_1_oyun_carpma": 0,
+ "d3_1_oyun_puan": 1401,
+ "d3_2_masa": 4,
+ "d3_2_genislik": 0.8,
+ "d3_2_yeni_genislik": 1.2,
+ "d3_2_guncellenen": 4,
+ "d3_2_prefab_parca": 3,
+ "d3_2_seviye_karakter": 329,
+ "d3_2_seviye_masa": 4,
+ "d3_2_seviye_sorun": 0,
+ "d3_3_durum": 4,
+ "d3_3_gecis": 6,
+ "d3_3_istek": 8,
+ "d3_3_kabul": 5,
+ "d3_3_red": 3,
+ "d3_3_adimlar": [
+  "Menu > Teslim: RED",
+  "Menu > Oyun: kabul",
+  "Oyun > Oyun: RED",
+  "Oyun > Dokuldu: kabul",
+  "Dokuldu > Teslim: RED",
+  "Dokuldu > Menu: kabul",
+  "Menu > Oyun: kabul",
+  "Oyun > Teslim: kabul"
+ ],
+ "d3_3_son": "Teslim",
+ "d3_4_hata": "MissingReferenceException",
+ "d3_4_hata_satir": 135,
+ "d3_4_test": 6,
+ "d3_4_gecen": 6,
+ "d4_1_butce60_ms": 16.67,
+ "d4_1_butce30_ms": 33.33,
+ "d4_1_olcum": {
+  "1": 1.207,
+  "10": 0.95,
+  "100": 1.483
+ },
+ "d4_1_yuzde100": 8.9,
+ "d4_1_isinma_kare": 60,
+ "d4_1_olcum_kare": 300,
+ "d4_2_px": [
+  48,
+  96,
+  144
+ ],
+ "d4_2_dugme_mm": 7.62,
+ "d4_2_dugme": 2,
+ "d4_2_dugme_yukseklik": 144,
+ "d4_2_alt_kenar_px": 40,
+ "d4_2_centik_px": 120,
+ "d4_2_alt_cubuk_px": 60,
+ "d4_2_tam_ekranda_disarida": 2,
+ "d4_2_panelde_disarida": 0,
+ "d4_3_alan": 6,
+ "d4_3_sorun": 0,
+ "d4_3_bozuk_sorun": 2,
+ "d4_3_bozuk_sorunlar": [
+  "geliştirme sürümü açık",
+  "ekran yönü dikey değil"
+ ],
+ "d4_3_sikistirma": "Kapalı",
+ "d4_3_web_px": [
+  540,
+  960
+ ],
+ "d4_3_hedef_kare": 60,
+ "d4_3_web_sure_dk": 46.4,
+ "d4_3_web_sure_s": 2781,
+ "d4_3_web_boyut_mb": 58.9,
+ "d4_3_web_boyut_bayt": 58866792,
+ "d4_3_web_dosya": 18,
+ "d4_3_web_wasm_mb": 45.9,
+ "d4_3_web_veri_mb": 12.5,
+ "d4_3_web_tarayici_hata": 0,
+ "d4_3_web_tarayici_sonuc": "[Kafe] sonuç: Teslim · süre 9.96 s · 72 kare · 498 sabit adım · çarpma 0 · en büyük ivme 1.00 m/s² · puan 1401",
+ "d4_3_web_tarayici_sure_s": 9.96,
+ "d4_3_web_tarayici_puan": 1401,
+ "d4_3_web_tarayici_adim": 498,
+ "d4_3_web_tarayici_kare": 72,
+ "d4_3_web_canvas_px": [
+  540,
+  960
+ ],
+ "d4_3_web_not": "derleme süresi yüklü bir makinede, 1–2 çekirdek sınırıyla; tarayıcı başsız Chrome, yazılımsal çizim (kare sayısı düşük), yerel durağan sunucu",
+ "d4_4_sure": 9.96,
+ "d4_4_puan": 1401,
+ "d4_4_kare": 596,
+ "d4_4_adim": 498,
+ "d4_4_ayni": true,
+ "d4_4_fps30_kare": 298,
+ "d4_4_fps30_adim": 498,
+ "d4_4_fps30_ayni": true,
+ "d4_4_editmode": 31,
+ "d4_4_editmode_gecen": 31,
+ "d4_4_playmode": 9,
+ "d4_4_playmode_gecen": 9,
+ "d4_4_test": 40,
+ "d4_4_gecen": 40,
+ "d4_4_dokunus": 4
+}

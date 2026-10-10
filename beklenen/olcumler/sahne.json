@@ -1,0 +1,12 @@
+{
+  "kok_nesne": 10,
+  "kokler": ["Main Camera", "Directional Light", "Kafe", "Masalar", "TeslimNoktasi", "HedefIsareti", "Robot", "Arayuz", "EventSystem", "OyunYoneticisi"],
+  "toplam_nesne": 47,
+  "masa": 4,
+  "robot_bilesen": 5,
+  "robot_bilesenler": ["Transform", "Rigidbody", "CapsuleCollider", "RobotSurucu", "Bardak"],
+  "robot_parca": 12,
+  "masa_bilesenler": ["Transform", "BoxCollider", "MasaSablonu"],
+  "yalniz_konum": 4,
+  "yalniz_konum_adlar": ["Kafe", "Masalar", "Gorsel", "Tepsi"]
+}
