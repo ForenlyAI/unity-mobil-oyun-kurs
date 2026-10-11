@@ -49,6 +49,8 @@ Kare süresi (`kare-butcesi.json`) ve oynatıştaki kare sayısı makineye göre
 
 Ders ekranlarındaki kareleri yeniden üretmek için (uzun sürer): `unity test . --mode PlayMode --filter "Kafe.Testler.GorselKayit"`.
 
+`beklenen/editor/` klasöründe aynı projenin Unity 6.3 LTS editör penceresindeki görünümü var: Robot seçiliyken Hierarchy ve Inspector, Masa prefabı, oyun yöneticisi, Test Runner (EditMode 31 / 31), Build Profiles (Web) ve Play modunda Profiler. Kendi editörünüzde aynı nesneyi seçtiğinizde aynı bileşenleri ve değerleri görmelisiniz.
+
 ## 4. Sahneyi yeniden kurma
 
 ```bash
